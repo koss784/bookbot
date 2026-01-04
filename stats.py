@@ -28,4 +28,3 @@ def count_letter(content):
     return letters
 
 
-def
